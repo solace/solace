@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Michele Ong (@solace)
+- 👩🏻‍💻 I’m a freelance web and application developer
+- 🌱 I'm working on building my own apps and SaaSs to help solve issues I'm having in my own workflows
+- 🎙️ I'm also the host of a YouTube channel and podcast called STEAM Powered (https://steampoweredshow.com/)
+- 🧭 You can find me at https://micheleong.com/
