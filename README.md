@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michele Ong (@solace)
-- 💡 I’m a technologist, creator, and podcaster
-- 👩🏻‍💻 I provide technology and business consulting services
-- 🌱 I'm working on building my own apps and SaaSs to help solve issues I'm having in my own workflows
-- 🎙️ I'm also the host of a YouTube channel and podcast called STEAM Powered (https://steampoweredshow.com/)
+- 💡 I’m a creative technologist, writer, creator, and podcaster
+- 👩🏻‍💻 I provide fractional tech advisory as well as podcasting consulting services
+- 🌱 I'm working on building my own apps and SaaSs to help solve issues I'm having in my own workflows, like Podbite (https://podbite.link)
+- 🎙️ I'm also the host and producer of STEAM Powered (https://steampoweredshow.com/)
 - 🧭 You can find me at https://micheleong.com/
