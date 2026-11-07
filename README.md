@@ -2,5 +2,6 @@
 - 💡 I’m a creative technologist, writer, creator, and podcaster
 - 👩🏻‍💻 I provide fractional tech advisory as well as podcasting consulting services
 - 🌱 I'm working on building my own apps and SaaSs to help solve issues I'm having in my own workflows, like Podbite (https://podbite.link)
-- 🎙️ I'm also the host and producer of STEAM Powered (https://steampoweredshow.com/)
+- 🖋️ I write about tech ethics and staying human in a tech-centred world at https://micheleong.substack.com
+- 🎙️ I host and produce STEAM Powered (https://steampoweredshow.com/) sharing conversations with Women in STEAM about their journeys and their work
 - 🧭 You can find me at https://micheleong.com/
